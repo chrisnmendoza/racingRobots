@@ -1,0 +1,3 @@
+This is only the main file. The code requires several library function files provided at https://github.com/Digilent/Basys-MX3-library/tree/master/LibPack/LibPack.X 
+in order to run.
+Runs on the PIC32MX-based Basys MX3 board.
